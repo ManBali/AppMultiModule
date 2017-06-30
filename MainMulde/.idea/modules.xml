@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseModule/BaseModule.iml" filepath="$PROJECT_DIR$/BaseModule/BaseModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/MainMulde.iml" filepath="$PROJECT_DIR$/MainMulde.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreframework/coreframework.iml" filepath="$PROJECT_DIR$/coreframework/coreframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corelib/corelib.iml" filepath="$PROJECT_DIR$/corelib/corelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulea/modulea.iml" filepath="$PROJECT_DIR$/modulea/modulea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleb/moduleb.iml" filepath="$PROJECT_DIR$/moduleb/moduleb.iml" />
     </modules>
   </component>
 </project>
